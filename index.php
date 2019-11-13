@@ -2761,6 +2761,7 @@
           <a class="navbar-item" href="./productalignment/">Product Alignment</a>
           <a class="navbar-item" href="./professionaldevelopment/">Professional Development</a>
           <a class="navbar-item" href="./educatorsolutions/">Educator Solutions</a>
+          <a class="navbar-item" href="./fundingsources/">Funding Sources</a>
         </div>
       </div>
       <a class="navbar-item" href="./contactus/">Contact us</a>
