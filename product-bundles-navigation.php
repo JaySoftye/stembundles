@@ -52,6 +52,7 @@
 <section class="container-fluid product-bundles-nav">
   <div class="columns">
     <div id="back-button" class="column is-1 back">
+      <button class="button">Back</button>
       <svg version="1.1" viewBox="0 0 50 50">
         <g class="product-button-hover">
         <path class="st0" d="M24.951,6.859C14.931,6.859,6.81,14.98,6.81,25c0,10.019,8.122,18.141,18.141,18.141S43.092,35.019,43.092,25
@@ -89,6 +90,7 @@
       </svg>
     </div>
     <div id="quote-button" class="column is-1 quote view-aside">
+      <button class="button">Need a Quote?</button>
       <svg version="1.1" viewBox="0 0 50 50">
         <g class="product-button-hover">
         <path class="st0" d="M25,6.859C14.98,6.859,6.859,14.98,6.859,25c0,10.019,8.122,18.141,18.141,18.141S43.141,35.019,43.141,25

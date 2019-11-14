@@ -114,7 +114,7 @@
 </div>
 <div class="columns is-vcentered margin-top">
   <div class="column">
-    <h3 class="sub-heading bold">Chain-reaction Contraptions</h3>
+    <h3 class="sub-heading bold">Rube Goldberg Machines</h3>
     <p class="margin-bottom">Chain-reaction machines accomplish a simple task through an elaborate and complicated method. In this iBlock, challenge your class to create a robotic chain-reaction machine. In order to build this sophisticated apparatus, students will research device triggers, chain reactions, and the domino effect. Students will explore examples of inventions like the famous Rube Goldberg machine, the board game Mouse Trap, rolling ball art sculptures, and the Incredible Machine video game for inspiration. When they’re ready to construct their own chain-reaction machine, students can leverage various programmable technologies like Ozobot, Sphero, Makey Makey, littleBits, microcontrollers, and more. The sky is the limit when it comes to their contraption!</p>
     <a href="https://iblocks.teq.com" class="button dropshadow margin-bottom">Discover iBlocks</a>
   </div>

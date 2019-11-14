@@ -73,8 +73,8 @@
         <hr class="margin-top margin-bottom" />
 
         <h4 class="sub-heading is-size-3 thin">Queens</h4>
-        <p class="bold is-size-6">Applications Due: February 2020</p>
-        <p><a href="">To be submitted to the Queens Borough President and your City Council Representative. All requests for capital funding must be submitted via the above link to the online form. For additional instructions, please <a class="bold" vhref="http://manhattanbp.nyc.gov/html/budget/capital-funding.shtml">click here.</a></p>
+        <p><a class="bold is-size-6" href="https://www.queensbp.org/budget/">FY2021 Expense Funding Application</a></p>
+        <p><a href="">To be submitted to the Queens Borough President and your City Council Representative. All requests for capital funding must be submitted via the above link to the online form. For additional instructions, please <a class="bold" href="http://manhattanbp.nyc.gov/html/budget/capital-funding.shtml">click here.</a></p>
         <p class="margin-top"><a href="https://docs.google.com/forms/d/e/1FAIpQLScMLfQVeumNm4J7SCu4SSpKncwfvYWBcGHictrbnC3Eh1KJTA/viewform" class="button small-button dropshadow">Captial Form Request</a></p>
         <hr class="margin-top margin-bottom" />
 

@@ -668,7 +668,7 @@ section.hero.home div.hero-body.hero-body-home div.hero-body-home-container {
   font-weight: 900;
 }
 
-.columns .grade-band-row div.dot::after {
+.columns .grade-band-row div > span.dot {
   content: '';
   height: 15px;
   width: 15px;
@@ -677,7 +677,7 @@ section.hero.home div.hero-body.hero-body-home div.hero-body-home-container {
   display: inline-block;
 }
 
-.columns .grade-band-row div.dot.outline::after {
+.columns .grade-band-row div> span.dot.outline {
   background-color: #ffffff;
   border: 3px solid #000000;
 }
@@ -851,6 +851,10 @@ section.product-bundles-nav .columns .column.back, section.product-bundles-nav .
   padding: 0 0;
 }
 
+section.product-bundles-nav .columns .column.back > button, section.product-bundles-nav .columns .column.quote > button {
+  display: none;
+}
+
 section.product-bundles-nav .columns .column.back {
   left: 0;
 }
@@ -905,7 +909,7 @@ footer.footer .footer-title {
   .fullscreen-bg {
     position: relative;
   }
-  nav.navbar.main-nav > .navbar-menu > .navbar-start > div.navbar-item.has-dropdown > a.navbar-link::after {
+  nav.navbar.main-nav > .navbar-menu > .navbar-start > div.navbar-item.has-dropdown > a.navbar-link::after, section.product-bundles-nav .columns .column.back > svg, section.product-bundles-nav .columns .column.quote > svg, .columns .grade-band-row:first-child > div, .columns .grade-band-row > div:empty {
     display: none;
   }
   section.hero.home {
@@ -913,6 +917,7 @@ footer.footer .footer-title {
     margin-top: 15%;
   }
   main.body-content {
+    padding-top: 2.4em;
     padding-right: 30px;
     padding-left: 30px;
   }
@@ -922,9 +927,35 @@ footer.footer .footer-title {
     padding-left: 15px;
   }
   section.product-bundles-nav .columns .column.back, section.product-bundles-nav .columns .column.quote {
-    width: 36%;
     position: relative;
-    float: left;
+    display: inline-block;
+    padding-bottom: 2.4em;
+  }
+  section.product-bundles-nav .columns .column.back > button, section.product-bundles-nav .columns .column.quote > button {
+    display: inline-block;
+  }
+  .columns .grade-band-row div > span.dot, .columns .grade-band-row div > span.dot.outline {
+    width: 100%;
+    background-color: #FFFFFF;
+    border: none;
+  }
+  .columns .grade-band-row div:nth-child(2) > span.dot::after {
+    content: ' K-5';
+  }
+  .columns .grade-band-row div:nth-child(3) > span.dot::after {
+    content: ' 3-5';
+  }
+  .columns .grade-band-row div:nth-child(4) > span.dot::after {
+    content: ' 6-8';
+  }
+  .columns .grade-band-row div:nth-child(5) > span.dot::after {
+    content: ' 9-12';
+  }
+  .columns .grade-band-row div:nth-child(6)::before {
+    content: 'Curriculum Versatility is ';
+  }
+  .columns .grade-band-row div:nth-child(7)::before {
+    content: 'Ease of use is ';
   }
 }
 

@@ -105,12 +105,12 @@
 </div>
 <div class="columns is-vcentered margin-top">
   <div class="column">
-    <h3 class="sub-heading bold">Building a Robot: Assembly Line</h3>
-    <p class="margin-bottom">During the Industrial Revolution, assembly lines greatly improved manufacturing efficiency and in turn, production capacity. We are now in a new age of advanced technology and once again manufacturing is changing — but this time because of robotics, not a new manufacturing framework. In this iBlock, students will learn about the history of assembly lines, the future of assembly lines, and then build a robot to function in an assembly line environment.</p>
+    <h3 class="sub-heading bold">Rube Goldberg Machines</h3>
+    <p class="margin-bottom">Chain-reaction machines accomplish a simple task through an elaborate and complicated method. In this iBlock, challenge your class to create a robotic chain-reaction machine. In order to build this sophisticated apparatus, students will research device triggers, chain reactions, and the domino effect. Students will explore examples of inventions like the famous Rube Goldberg machine, the board game Mouse Trap, rolling ball art sculptures, and the Incredible Machine video game for inspiration. When they’re ready to construct their own chain-reaction machine, students can leverage various programmable technologies like Ozobot, Sphero, Makey Makey, littleBits, microcontrollers, and more. The sky is the limit when it comes to their contraption!</p>
     <a href="https://iblocks.teq.com" class="button dropshadow margin-bottom">Discover iBlocks</a>
   </div>
   <div class="column is-5">
-    <img class="width-full" src="../assets/images/building-a-robot-assembly-line.jpg" />
+    <img class="width-full" src="../assets/images/chain-reaction-contraptions.jpg" />
   </div>
 </div>
 

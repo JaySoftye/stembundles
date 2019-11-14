@@ -42,13 +42,13 @@
       <div class="column">
         <h2 class="extra-large-heading">Grade Band Alignment</h2>
         <p class="margin-bottom">Curriculum versatility indicates products with a higher versatility, meaning they can be used in multiple subject areas or grade levels compared to products that are more subject and/or grade specific.  Ease of use ranks the complexity level for teachers as they implement the product into their instruction.</p>
-        <p class="margin-bottom">A solid circle indicates the grade band for which the product is most appropriate, while outlined circle indicates other grade bands where it can also be successfully applied.</p>
+        <p class="margin-bottom hide-small">A solid circle indicates the grade band for which the product is most appropriate, while outlined circle indicates other grade bands where it can also be successfully applied.</p>
       </div>
       <div class="column is-2"></div>
     </div>
     <div class="columns is-vcentered">
       <div class="column is-2"></div>
-      <div class="column">
+      <div class="column grade-band-row-container">
 
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3"></div>
@@ -61,7 +61,7 @@
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Kibo</div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column"></div>
           <div class="column"></div>
           <div class="column"></div>
@@ -70,7 +70,7 @@
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Robotis Play</div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column"></div>
           <div class="column"></div>
           <div class="column"></div>
@@ -79,17 +79,17 @@
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Dash & Dot</div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column"></div>
           <div class="column"></div>
           <div class="column is-3">Subject/Grade Specific</div>
-          <div class="column is-2">Medium></div>
+          <div class="column is-2">Medium</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">SparkFun Beginner</div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column"></div>
           <div class="column"></div>
           <div class="column is-3">Subject/Grade Specific</div>
@@ -97,9 +97,9 @@
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Cubelets</div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column"></div>
           <div class="column is-3">Subject/Grade Specific</div>
           <div class="column is-2">Intermediate</div>
@@ -107,72 +107,72 @@
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Robotis Dream</div>
           <div class="column"></div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column"></div>
           <div class="column is-3">Subject/Grade Specific</div>
           <div class="column is-2">Easy</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">SAM Labs</div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column"></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Easy</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Ozobot</div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Easy</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">littleBits</div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column is-3">High</div>
           <div class="column is-2">Easy</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Sphero</div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">zSpace</div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">High</div>
           <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Raspberry Pi</div>
           <div class="column"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Subject/Grade Specific</div>
           <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">pi-top</div>
           <div class="column"></div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Advanced</div>
         </div>
@@ -180,7 +180,7 @@
           <div class="column is-3">Cue</div>
           <div class="column"></div>
           <div class="column"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column"></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Easy</div>
@@ -189,7 +189,7 @@
           <div class="column is-3">Sparkfun Intermediate</div>
           <div class="column"></div>
           <div class="column"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column"></div>
           <div class="column is-3">High</div>
           <div class="column is-2">Intermediate</div>
@@ -198,8 +198,8 @@
           <div class="column is-3">Robotis Bioloid (STEM)</div>
           <div class="column"></div>
           <div class="column"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Advanced</div>
         </div>
@@ -207,8 +207,8 @@
           <div class="column is-3">Robotis Mini</div>
           <div class="column"></div>
           <div class="column"></div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Advanced</div>
         </div>
@@ -217,41 +217,41 @@
           <div class="column"></div>
           <div class="column"></div>
           <div class="column"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Advanced</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Ultimaker</div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">MakerBot</div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Merge</div>
           <div class="column"></div>
-          <div class="column dot outline"></div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Osmo</div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column"></div>
           <div class="column"></div>
           <div class="column is-3">Medium</div>
@@ -259,19 +259,19 @@
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">KANO</div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column is-3">High</div>
           <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Bloxels</div>
-          <div class="column dot outline"></div>
-          <div class="column dot"></div>
-          <div class="column dot"></div>
-          <div class="column dot outline"></div>
+          <div class="column"><span class="dot outline"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot"></span></div>
+          <div class="column"><span class="dot outline"></span></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Intermediate</div>
         </div>
