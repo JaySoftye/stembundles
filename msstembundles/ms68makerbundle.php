@@ -3,7 +3,7 @@
 
 <div class="columns border-bottom thick">
   <div class="column">
-    <h1 class="extra-large-heading thin">Elementary School <strong>6-8 Maker Bundle</strong></h1>
+    <h1 class="extra-large-heading thin">Middle School <strong>6-8 Maker Bundle</strong></h1>
   </div>
 </div>
 <div class="columns border-bottom">
