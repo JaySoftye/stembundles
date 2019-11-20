@@ -19,18 +19,26 @@
     <div class="container bundle-menu">
 
       <div class="columns">
+        <div class="column is-4 bundle-option" data="sbfarmshelfbundle.php">
+          <div class="card">
+            <h3 class="bundle-title">Hydroponics - Farmshelf</h3>
+            <p><img src="../assets/images/farmshelf-bundle.jpg" /></p>
+          </div>
+        </div>
         <div class="column is-4 bundle-option" data="sbspherobundle.php">
           <div class="card">
-            <h3 class="bundle-title">Sphero STEM</h3>
+            <h3 class="bundle-title">Sphero</h3>
             <p><img src="../assets/images/sphero-bundle.jpg" /></p>
           </div>
         </div>
         <div class="column is-4 bundle-option" data="sblittlebitsbundle.php">
           <div class="card">
-            <h3 class="bundle-title">littleBits Bundle</h3>
+            <h3 class="bundle-title">littleBits</h3>
             <p><img src="../assets/images/littlebits-bundle.jpg" /></p>
           </div>
         </div>
+      </div>
+      <div class="columns">
         <div class="column is-4 bundle-option" data="sbwonderworkshopbundle.php">
           <div class="card">
             <h3 class="bundle-title">Wonder Workshop</h3>
