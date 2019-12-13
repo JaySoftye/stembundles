@@ -2782,7 +2782,7 @@
         <img class="width-half" src="./assets/images/hearstemthinkteq.svg" alt="Hear STEM Think Teq" />
       </h1>
       <h2>
-        <button class="button dropshadow view-aside">Download the STEM Bundle Catalog</button>
+        <button class="button large-button dropshadow view-aside">Download the STEM Bundle Catalog</button>
       </h2>
     </div>
   </div>
@@ -2832,17 +2832,14 @@
           <div class="carousel-container">
             <div class="carousel-item has-text-centered is-active" style="z-index: 1; order: 0;">
               <p class="has-text-centered">
-                <script src="https://fast.wistia.com/embed/medias/h3z294fg1m.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_h3z294fg1m popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div></div>
-              </p>
-              <h5 class="thin is-size-5 margin-top margin-bottom">“The personalized, individualized support is our greatest gift from Teq. I think that is something they do exceptionally well, and it sets them apart from other vendors.”</h5>
-              <h6 class="is-size-6"><strong>Barbara Snow, Assistant Principal<br />P.S. 119 Amersfort</strong></h6>
-            </div>
-            <div class="carousel-item has-text-centered" style="z-index: 0; order: 1;">
-              <p class="has-text-centered">
                 <script src="https://fast.wistia.com/embed/medias/99me2ztcz9.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_99me2ztcz9 popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div></div>
               </p>
               <h5 class="thin is-size-5 margin-top margin-bottom">“Teq was the vendor who was able to offer us the most comprehensive package of support. They were really very good at leading us in the direction of what it would be as far as the basic tools and technologies to start our STEM Lab… There really wasn’t any competitor that we saw that could provide us that whole package of services, and that’s really what we needed.”</h5>
               <h6 class="is-size-6"><strong>Stephanie Brown, Superintendent<br />Milltown Public Schools, NJ</strong></h6>
+            </div>
+            <div class="carousel-item has-text-centered" style="z-index: 0; order: 1;">
+              <h5 class="thin is-size-5 margin-top margin-bottom">“The personalized, individualized support is our greatest gift from Teq. I think that is something they do exceptionally well, and it sets them apart from other vendors.”</h5>
+              <h6 class="is-size-6"><strong>Barbara Snow, Assistant Principal<br />P.S. 119 Amersfort</strong></h6>
             </div>
             <div class="carousel-item has-text-centered" style="z-index: 0; order: 2;">
               <p class="has-text-centered">

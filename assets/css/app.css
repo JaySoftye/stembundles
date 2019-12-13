@@ -257,6 +257,14 @@ strong, .bold {
   display: block;
 }
 
+.button.large-button {
+  padding-top: calc(1.5em - 3px);
+  padding-right: 4.8em;
+  padding-bottom: calc(2.74em - 3px);
+  padding-left: 4.8em;
+  font-size: 1.17rem;
+}
+
 .button.medium-button {
   padding: .5rem 1.92rem;
   font-size: 1.53rem;
