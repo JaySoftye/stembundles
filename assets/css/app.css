@@ -231,7 +231,7 @@ strong, .bold {
 .button, .button:focus {
   display: inline-block;
   margin-top: .75em;
-  margin-right: .75em;
+  margin-right: .25em;
   padding-top: calc(.99em - 3px);
   padding-right: 2.22em;
   padding-bottom: calc(2.22em - 3px);
@@ -250,6 +250,13 @@ strong, .bold {
   text-decoration: underline !important;
   cursor: pointer !important;
   color: #ffffff;
+}
+
+.button.rectangle {
+  padding-right: 1.5em;
+  padding-left: 1.5em;
+  border-radius: 0;
+  font-size: 1.2em;
 }
 
 .button.block {
@@ -278,17 +285,14 @@ strong, .bold {
 
 .button.elementary {
   background-color: rgb(161,215,132);
-  color: #000000;
 }
 
 .button.middle {
   background-color: #4fc5dd;
-  color: #000000;
 }
 
 .button.high {
   background-color: rgb(127,168,224);
-  color: #000000;
 }
 
 button.outline {
