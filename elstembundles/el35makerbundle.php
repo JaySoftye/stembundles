@@ -60,7 +60,7 @@
     <p class="hidden-object"><img src="../assets/images/littlebits-student-steam-kit.jpg" /></p>
   </div>
   <div class="column">
-    <h4><span>1</span>littleBits STEAM Kit Class Pack (30 Students)</h4>
+    <h4><span>1</span>littleBits by Sphero STEAM Kit Class Pack (30 Students)</h4>
     <h4><span>1</span>Science Expansion Class Packs (sets of 10)</h4>
     <h4><span>1</span>Math Expansion Class Packs (sets of 10)</h4>
     <h4><span>2</span>Storage Tackleboxes</h4>

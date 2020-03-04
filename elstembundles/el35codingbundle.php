@@ -68,19 +68,10 @@
     <p class="hidden-object"><img src="../assets/images/littlebits-code-kits.jpg" /></p>
   </div>
   <div class="column">
-    <h4><span>1</span>littleBits Code Kit Class Pack (30 Students)</h4>
+    <h4><span>1</span>littleBits by Sphero Code Kit Class Pack (30 Students)</h4>
     <h4><span>1</span>Computer Science Expansion Class Packs (sets of 10)</h4>
     <h4><span>1</span>Technology Expansion Class Packs (sets of 10)</h4>
     <h4><span>2</span>Storage Tackleboxes</h4>
-  </div>
-</div>
-<div class="columns is-vcentered padding-top hidden-object-container">
-  <div class="column is-4">
-    <p class="hidden-object"><img src="../assets/images/cubelets.jpg" /></p>
-  </div>
-  <div class="column">
-    <h4><span>12</span>Kano Computer Kit Touch</h4>
-    <h4><span>12</span>Motion Sensor Kit</h4>
   </div>
 </div>
 <div class="columns is-vcentered padding-top hidden-object-container">

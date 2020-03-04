@@ -8,7 +8,7 @@
     <div class="columns is-vcentered padding-top">
       <div class="column is-2"></div>
       <div class="column">
-        <h2 class="extra-large-heading">STEM Product Alignment</h2>
+        <h2 class="extra-large-heading">Product Alignment</h2>
       </div>
       <div class="column is-2"></div>
     </div>
@@ -132,7 +132,7 @@
           <div class="column is-2">Easy</div>
         </div>
         <div class="columns grade-band-row border-bottom">
-          <div class="column is-3">littleBits</div>
+          <div class="column is-3">littleBits by Sphero</div>
           <div class="column"><span class="dot outline"></span></div>
           <div class="column"><span class="dot"></span></div>
           <div class="column"><span class="dot"></span></div>
@@ -256,15 +256,6 @@
           <div class="column"></div>
           <div class="column is-3">Medium</div>
           <div class="column is-2">Easy</div>
-        </div>
-        <div class="columns grade-band-row border-bottom">
-          <div class="column is-3">KANO</div>
-          <div class="column"><span class="dot"></span></div>
-          <div class="column"><span class="dot"></span></div>
-          <div class="column"><span class="dot"></span></div>
-          <div class="column"><span class="dot outline"></span></div>
-          <div class="column is-3">High</div>
-          <div class="column is-2">Intermediate</div>
         </div>
         <div class="columns grade-band-row border-bottom">
           <div class="column is-3">Bloxels</div>

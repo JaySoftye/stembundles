@@ -20,13 +20,13 @@
     <p><img src="../assets/images/littlebits-product-bundle.jpg" /></p>
   </div>
   <div class="column">
-    <h4><span>2</span>littleBits STEAM Kit Class Pack (30) Students </h4>
+    <h4><span>2</span>littleBits by Sphero STEAM Kit Class Pack (30) Students </h4>
     <h4><span>1</span>STEAM Math Expansion Class Pack (Sets of 10) </h4>
     <h4><span>1</span>STEAM Science Expansion Class Pack (Sets of 10) </h4>
-    <h4><span>2</span>littleBits Code Kit Class Pack (30) Students </h4>
+    <h4><span>2</span>littleBits by Sphero Code Kit Class Pack (30) Students </h4>
     <h4><span>1</span>Code Kit Technology Expansion Class Pack (Sets of 10) </h4>
     <h4><span>1</span>Code Kit Computer Science Expansion Class Pack (Sets of 10) </h4>
-    <h4><span>4</span>littleBits Tacklebox </h4>
+    <h4><span>4</span>littleBits by Sphero Tacklebox </h4>
   </div>
 </div>
 <div class="columns is-vcentered hidden-object-container">

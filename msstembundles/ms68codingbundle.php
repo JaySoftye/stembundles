@@ -57,7 +57,7 @@
     <p class="hidden-object"><img src="../assets/images/pi-top-charging-cart.jpg" /></p>
   </div>
   <div class="column">
-    <h4><span>12</span>pi-top 3</h4>
+    <h4><span>12</span>pi-top</h4>
     <h4><span>1</span>pi-top cart</h4>
   </div>
 </div>
@@ -66,7 +66,7 @@
     <p class="hidden-object"><img src="../assets/images/littlebits-code-kits.jpg" /></p>
   </div>
   <div class="column">
-    <h4><span>1</span>littleBits Code Kit Class Pack (30 Students)</h4>
+    <h4><span>1</span>littleBits by Sphero Code Kit Class Pack (30 Students)</h4>
     <h4><span>1</span>Computer Science Expansion Class Packs (sets of 10)</h4>
     <h4><span>1</span>Technology Expansion Class Packs (sets of 10)</h4>
     <h4><span>2</span>Storage Tackleboxes</h4>

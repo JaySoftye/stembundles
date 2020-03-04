@@ -2799,7 +2799,7 @@
       <div class="column">
         <h2 class="extra-large-heading">STEM Bundles that spark learning.</h2>
         <h3 class="is-size-5 margin-top">We did the work, so you don’t have to. Our team researched, vetted, and curated the best of edtech to create STEM Bundles that suit every need. Choose a STEM Bundle and bring new technologies into the classroom in a way that’s efficient, strategic, and cohesive.</h3>
-        <p class="margin-top has-text-centered"><a href="./elstembundles/" class="button rectangle elementary">Elementary Bundles</a> <a href="./msstembundles/" class="button rectangle middle">Middle School Bundles</a> <a href="./hsstembundles/" class="button rectangle high">High School Bundles</a></p>
+        <p class="margin-top"><a href="./elstembundles/" class="button small-button dropshadow elementary">Elementary Bundles</a> <a href="./msstembundles/" class="button small-button dropshadow middle">Middle School Bundles</a> <a href="./hsstembundles/" class="button small-button dropshadow high">High School Bundles</a></p>
       </div>
       <div class="column is-1">
       </div>
@@ -2810,7 +2810,7 @@
       <div class="column">
         <h2 class="extra-large-heading">STEM Bundles that work for you.</h2>
         <h3 class="is-size-5 margin-top">Each STEM Bundle is designed to engage specific grade levels with STEM tools and technologies, so they work seamlessly within your school demographics. Choose your STEM Bundle by grade band (Elementary, Middle and High), or by focus. Because our bundles are about outcomes for your students, they focus on STEM education with real-world applications. To make sure you get the best fit for your goals, we’ve divided our bundles into categories like Coding, Robotics, and Maker.</h3>
-        <p class="margin-top has-text-centered"><a href="./elstembundles/" class="button rectangle elementary">Elementary Bundles</a> <a href="./msstembundles/" class="button rectangle middle">Middle School Bundles</a> <a href="./hsstembundles/" class="button rectangle high">High School Bundles</a></p>
+        <p class="margin-top"><a href="./elstembundles/" class="button small-button dropshadow elementary">Elementary Bundles</a> <a href="./msstembundles/" class="button small-button dropshadow middle">Middle School Bundles</a> <a href="./hsstembundles/" class="button small-button dropshadow high">High School Bundles</a></p>
       </div>
       <div class="column is-5">
         <img class="width-full hidden-object" src="./assets/images/stem-bundles-pi-top-veative.jpg" alt="pi-top veative" />
