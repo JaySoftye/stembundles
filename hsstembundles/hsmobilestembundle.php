@@ -82,16 +82,6 @@
 </div>
 <div class="columns is-vcentered hidden-object-container">
   <div class="column is-4">
-    <p class="hidden-object"><img src="../assets/images/labdisc-tray-biochem-physio.jpg" /></p>
-  </div>
-  <div class="column">
-    <h4><span>1</span> Labdisc Storage Tray</h4>
-    <h4><span>4</span> Labdisc Biochem</h4>
-    <h4><span>4</span> Labdisc Physio</h4>
-  </div>
-</div>
-<div class="columns is-vcentered hidden-object-container">
-  <div class="column is-4">
     <p class="hidden-object"><img src="../assets/images/smart-document-camera.jpg" /></p>
   </div>
   <div class="column">

@@ -360,28 +360,6 @@
         </div>
         <div class="columns is-vcentered">
           <div class="column is-2">
-            <img class="width-full" src="../assets/images/labdisc_logo.svg" alt="labdisc" />
-          </div>
-          <div class="column">
-            <h2>Elementary & Middle School charging tray bundle</h2>
-          </div>
-          <div class="column famis">
-            <p>(Includes 4 GenSci, 4 Enviro Labdiscs, and charging tray)</p>
-          </div>
-        </div>
-        <div class="columns is-vcentered">
-          <div class="column is-2">
-            <img class="width-full" src="../assets/images/labdisc_logo.svg" alt="labdisc" />
-          </div>
-          <div class="column">
-            <h2>High School charging tray bundle</h2>
-          </div>
-          <div class="column famis">
-            <p>(Includes 4 BioChem, 4 Physio Labdiscs, and charging tray)</p>
-          </div>
-        </div>
-        <div class="columns is-vcentered">
-          <div class="column is-2">
             <img class="width-full" src="../assets/images/ozobot_logo.svg" alt="ozobot" />
           </div>
           <div class="column">
